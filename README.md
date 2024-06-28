@@ -12,8 +12,8 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 **🚗 Car Management:** Manage cars, brands, models, and pricing details.                                                                                        
 **📝 Rental History:** Keep track of rentals, customers, and rental durations.
 
-**# OOPS Concepts Used***
+**# OOPS Concepts Used**
 
-**-Polymorphism 
--Encapsulation
--Abstraction**
+**- Polymorphism**                                                                                                                                                                                                   
+**- Encapsulation**                                                                                                                                                                                                
+**- Abstraction**
