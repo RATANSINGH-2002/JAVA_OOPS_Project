@@ -11,3 +11,9 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 **👥 Customer Management:** Add new customers and maintain customer records.                                                                                    
 **🚗 Car Management:** Manage cars, brands, models, and pricing details.                                                                                        
 **📝 Rental History:** Keep track of rentals, customers, and rental durations.
+
+**# OOPS Concepts Used***
+
+**-Polymorphism 
+-Encapsulation
+-Abstraction**
